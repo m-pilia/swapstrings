@@ -1,3 +1,8 @@
+# Mirror of the Swapstrings vim plugin by Charles E. Campbell (aka Dr. Chip)
+
+This is an unofficial GitHub mirror. For the original and up-to-date version
+please refer to the official website:
+
 http://www.drchip.org/astronaut/vim/#SWAPSTRINGS
 ```
 Author:  Charles E. Campbell  <NdrOchip@ScampbellPfamily.AbizM>
